@@ -1,0 +1,25 @@
+# 🍿 Films
+
+- Parasite (2019) — Bong Joon Ho
+- Joker (2019) — Todd Phillips
+- The Farewell (2019) — Lulu Wang
+- Free Solo (2018) — Elizabeth Chai Vasarhelyi et Jimmy Chin
+- Isle of Dogs (2018) — [[Wes Anderson]]
+
+# 📚 Livres
+
+## _Circe_ (2018) de Madeline Miller
+
+Rien à dire: Madeline Miller est une vraie conteuse. Poussière d'étoiles et infusions, c'est le mythe de Circe qui est revisité.
+
+## _The Omnivore's Dilemma_ (2006) de Michael Pollan
+
+Le meilleur livre que j’aie lu sur l’éthique de la nourriture. Au-delà du végétarisme et du bio, Michael Pollan nous aide à décortiquer le contenu de nos assiettes et ses implications.
+
+# 🍆 Recette de l'année
+
+## La Ribollita !
+
+Soupe toscane réalisée à partir de restes et vieux pain. On la découvre lors de notre voyage à tandem dans le Chianti dans un petit bistrot de famille. Chaud, généreux, goûtu, et qui bonus : utilise les restes !
+
+[Lien vers la recette](http://www.cookwithgrazia.com/csa-box-content/ribollita-soup-authentic-recipe/)
