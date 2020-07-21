@@ -4,4 +4,6 @@ Le mouvement locavore encourage les consommateurs à acheter des produits frais 
 
 Ce mouvement se veut un acte respectueux de l’environnement par le maintien de la diversité des paysages, des écosystèmes en évitant les monocultures.
 
-En termes de d'impacts sur l'environnement, le locavorisme connaît également des [[Critiques du locavorisme]].
+En termes de d'impacts sur l'environnement, le locavorisme connaît également des [Critiques du locavorisme](critiques-du-locavorisme.md).
+
+
