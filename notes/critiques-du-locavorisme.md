@@ -1,5 +1,7 @@
 # Critiques du locavorisme
 
+_Tags : #budding_
+
 ## Le mode de transport importe
 
 Les émissions par kilomètre parcouru et par tonne transportée sont environ 10 fois plus faibles pour un poids lourd de 32 tonnes et 100 fois plus faibles pour un cargo transocéanique que pour une camionnette de moins de 3,5 tonnes : ils permettent de parcourir de plus grandes distances avec un impact gaz à effet de serre équivalent.
