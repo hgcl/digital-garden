@@ -11,8 +11,6 @@ Blogs
 
 Digital Gardens
 
-- https://maggieappleton.com/
-- https://wiki.nikitavoloboev.xyz/
 - https://paul.copplest.one/knowledge/
 
 Others

@@ -3,6 +3,10 @@
 - Manger local [[Locavorisme]]
 - [[Lombricompostage]]
 
-## Ressources
+## Ressources web
 
 - shameplane.com
+
+## Livres
+
+- [[The Omnivore's Dilemma (2006)]]
