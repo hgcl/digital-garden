@@ -20,6 +20,11 @@
     "body": ["$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE"],
     "description": "Ajoute la date actuelle"
   }
+  "Titre Nom Fichier": {
+    "prefix": ["/titre"],
+    "body": ["# ${TM_FILENAME_BASE/(.*)/${1:/capitalize}/}"],
+    "description": "Ajoute le nom du fichier en H1"
+  }
   "Template Livre": {
     "prefix": ["/livre"],
 	"body": [
