@@ -1,6 +1,8 @@
 # Statut d'une note
 
-_Tags : #budding_
+_Tags : #inbox_
+
+## Inbox
 
 ## Budding
 

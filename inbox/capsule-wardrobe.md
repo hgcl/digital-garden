@@ -1,6 +1,6 @@
 # Capsule wardrobe
 
-_Tags : #budding_
+_Tags : #inbox_
 
 > Capsule wardrobe is a term coined by Susie Faux in the 1970s. According to Faux, a capsule wardrobe is a collection of a few essential items of clothing that do not go out of fashion, such as skirts, trousers, and coats, which can then be augmented with seasonal pieces.
 >

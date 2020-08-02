@@ -1,3 +1,0 @@
-# Personnes
-
-[[Wes Anderson]]
