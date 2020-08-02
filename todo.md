@@ -14,5 +14,3 @@ Digital Gardens
 Others
 
 - Search engine for fevs: https://quickref.dev/
-
-
