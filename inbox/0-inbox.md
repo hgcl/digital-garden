@@ -1,3 +1,4 @@
 # Inbox
 
-- [ ] Langue d'écriture - anglais, français ?
+- [ ] Language - English / French?
+- [ ] [Publish on GitHub Pages](https://guides.github.com/features/pages/)

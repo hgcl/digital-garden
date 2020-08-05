@@ -18,70 +18,70 @@
   "Date": {
     "prefix": ["/date"],
     "body": ["$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE"],
-    "description": "Ajoute la date actuelle"
+    "description": "Add the current date"
   }
   "Tags": {
     "prefix": ["/tag"],
-    "body": ["_Tags : #_"],
+    "body": ["_Tags: #_"],
     "description": "Ajoute un tag"
   }
   "Inbox": {
     "prefix": ["/inbox"],
-    "body": ["_Tags : #inbox_",
+    "body": ["_Tags: #inbox_",
     "",
   "- $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE"],
     "description": "Ajoute un tag inbox + date"
   }
-  "Titre Nom Fichier": {
-    "prefix": ["/titre"],
+  "Filename as title": {
+    "prefix": ["/title"],
     "body": ["# ${TM_FILENAME_BASE/(.*)/${1:/capitalize}/}"],
-    "description": "Ajoute le nom du fichier en H1"
+    "description": "Add the file name as a title"
   }
-  "Template Livre": {
-    "prefix": ["/livre"],
+  "Book template": {
+    "prefix": ["/book"],
 	"body": [
-		"_Tags : #livre_",
+		"_Tags: #book_",
 		"",
-		"## Informations",
+		"## Info",
 		"",
-		"- Source : ",
-		"- Auteur : ",
-		"- Date de publication : ",
-		"- Sujets :" , 
-		"- Synopsis : ",	
+		"- Source: ",
+		"- Author: ",
+		"- Publishing Date: ",
+		"- Topics:" , 
+		"- Synopsis: ",	
 		"",
 		"## Notes"],
-    "description": "Ajoute un template Livre"
+    "description": "Add a book template"
   }
-  "Template Article": {
+  "Article template": {
     "prefix": ["/article"],
 	"body": [
-		"_Tags : #article_",
+		"_Tags: #article_",
 		"",
-		"## Informations",
+		"## Info",
 		"",
-		"- Source : ",
-		"- Auteur : ",
-		"- Date de publication : ",
-		"- Sujets : ", 
-		"- Synopsis : ",	
+		"- Source: ",
+		"- Author: ",
+		"- Publishing Date: ",
+		"- Topics: ", 
+		"- Synopsis: ",	
 		"",
 		"## Notes"],
-    "description": "Ajoute un template Article"
+    "description": "Add an article template"
   }
-  "Template Site Web": {
-    "prefix": ["/web"],
+  "Website template": {
+    "prefix": ["/website"],
 	"body": [
-		"_Tags : #web_",
+		"_Tags: #website_",
 		"",
-		"## Informations",
+		"## Info",
 		"",
-		"- Source : ",
-		"- Auteur : ",
-		"- Sujets : ", 
-		"- Synopsis : ",	
+		"- Source: ",
+		"- Author: ",
+		"- Topics: ", 
+		"- Synopsis: ",	
 		"",
 		"## Notes"],
-    "description": "Ajoute un template Web"
+    "description": "Add a website template"
   }
 }

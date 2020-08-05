@@ -1,6 +1,6 @@
-# Capsule wardrobe
+# Capsule Wardrobe
 
-_Tags : #budding_
+_Tags:#budding_
 
 ## Les débuts de la capsule wardrobe
 
