@@ -2,16 +2,16 @@
 
 _Tags:#budding_
 
-## Done
+## Made It ✅
 
-- Bière
+- Beer
 - Kimchi
-- Pain au levain
+- Sourdough bread
 
-## To do
+## To Make 🍽
 
 - Ayran
-- Houmous fermenté
+- Fermented hummus
 - Kombucha
 - Sauerkraut
-- Yaourt
+- Yoghourt

@@ -4,23 +4,22 @@ _Tags: #budding_
 
 ## Inbox
 
-L'inbox rassemble toutes les notes temporaires, les brouillons et débuts de pensées.
+The inbox gathers all transient notes, drafts and fleeting ideas (that I don't want to be fleeting anymore).
 
-Une nouvelle note débute invariablement avec le tag `#inbox`, avant d'être retravaillée pour passer au stade suivant — ou éventuellement supprimée.
+A new note always starts with the tag `#inbox`, it will then get reworked and switched to the next status – or possibly deleted.
 
 ## Budding
 
-Les notes ayant été un minimum retravaillées passent au statut de `#budding`. Ces notes sont considérées comme étant "en cours de réflexion".
+Notes having been more or less become `#budding`. These notes are usually ideas or concepts that are still being fleshed out.
 
 ## Evergreen
 
-Une note au statut `#evergreen` est considérée comme terminée.
+An `#evergreen` note is considered completed.
 
-Il est possible de la retravaillée par la suite, mais une première réflexion poussée a au moins déjà été réalisée sur le sujet.
-
+It is possible to update an evergreen note, but it will have already been fleshed out at least once.
 ---
 
 ## Sources
 
-- [A writing inbox for transient and incomplete notes](https://notes.andymatuschak.org/A_writing_inbox_for_transient_and_incomplete_notes) par Andy Matuschak
-- [Growing the Evergreens](https://maggieappleton.com/evergreens) par Maggie Appleton
+- [A writing inbox for transient and incomplete notes](https://notes.andymatuschak.org/A_writing_inbox_for_transient_and_incomplete_notes) by Andy Matuschak
+- [Growing the Evergreens](https://maggieappleton.com/evergreens) by Maggie Appleton

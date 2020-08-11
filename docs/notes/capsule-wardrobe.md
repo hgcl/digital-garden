@@ -1,15 +1,9 @@
 # Capsule Wardrobe
 
-_Tags:#budding_
+_Tags: #budding_
 
-## Les débuts de la capsule wardrobe
+The term *capsule wardrobe* is used for the first time by Susie Faux in the 70s. She described it as a collection of clothing items that don't go out of fashion. This base collection could be adorned with seasonal items as well.
 
-La _capsule wardrobe_ est un terme utilisé pour la première fois par Susie Faux dans les années 1970.
+Nowadays, a capsule wardrobe describes a collection of matching permutable clothing items, therefore maximising the number of possible outfits.
 
-Elle la décrivait comme une collection de vêtements essentiels ne se démodant pas. Cette collection peut être complétée d'éléments saisonniers.
-
-## Et aujourd'hui ?
-
-De nos jours, une _capsule wardrobe_ réfère à une collection de vêtements interchangeables permettant de maximiser les différentes possibilités d'ensembles.
-
-Avec peu de vêtements, il est ainsi possible d'avoir un ensemble pour tout occasion.
+With fewer items, it is then possible to have an outfit for all occasions.

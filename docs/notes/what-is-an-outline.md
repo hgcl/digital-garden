@@ -2,6 +2,6 @@
 
 _Tags: #budding_
 
-Dans ce wiki, chaque outline représente un intérêt fort que j'ai envie d'approfondir. Le titre d'un outline peut être notamment formulé comme un objectif.
+All notes of this digital garden are organised under outlines. An outline is a note representing a strong interest that I want to deepen. Its title can therefore be formulated as an objective.
 
-Toutes les notes devraient être reliées directement ou indirectement à un outline
+Once having left the inbox, all notes should be directly or undirectly linked to an outline.

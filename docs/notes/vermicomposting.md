@@ -1,6 +1,6 @@
 # Vermicomposting
 
-_Tags: #budding_
+_Tags: #budding #french_
 
 ## Qu'est-ce que le lombricompostage ?
 
