@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+a {
+  color: salmon;
+}
+
 .markdown-body {
   max-width: 800px;
   font-size: 16px;
@@ -21,6 +25,38 @@
 input.task-list-item-checkbox {
   margin-right: 4px;
 }
+
+@media only screen and (min-width: 1170px) {
+  img[src*="demo"] {
+    max-width: 130%;
+    margin-left: -15%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
+
+.wikilink:before {
+  content: "[[";
+  opacity: 0.3;
+}
+
+.wikilink:after {
+  content: "]]";
+  opacity: 0.3;
+}
+
+/* light theme */
+body {
+  color: #000;
+  background-color: #f2f2f2;
+}
+
+@media (prefers-color-scheme: dark) {
+  /* defaults to dark theme */
+  body {
+    color: #eee;
+    background-color: #23323a;
+  }
 
 h1,
 h2,
