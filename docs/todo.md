@@ -1,6 +1,7 @@
 # Todo
 
-- [x] Alt+C
+- [x] Alt+C = Mark as complete
+- [ ] Shift+Alt+N = Create new markdown
 
 Blogs
 
