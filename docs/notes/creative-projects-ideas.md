@@ -7,3 +7,4 @@ _Tags: #budding_
 - Brainstorm a list of random phrases then create an illustration based on the phrase.
 - Illustrate a piece using a distorted grid.
 - Try to recreate a work by your favorite artist. Then make it your own.
+- Recreate film posters (Swiss design style)
