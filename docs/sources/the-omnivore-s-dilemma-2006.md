@@ -1,6 +1,6 @@
 # The Omnivore's Dilemma (2006)
 
-_Tags: #evergreen #livre_
+_Tags: #evergreen #book_
 
 ## Info
 

@@ -1,6 +1,6 @@
 # Do More By Planning Less
 
-_Tags: #budding_
+_Tags: #evergreen_
 
 Like [Zain Rizvi](https://www.zainrizvi.io/blog/do-more-by-doing-less/), I have a short motivation span for "fun projects". I also tend to overthink and overengineer projects, making them much more complex than what they are. 
 

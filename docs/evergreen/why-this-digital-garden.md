@@ -1,6 +1,6 @@
 # Why This Digital Garden
 
-_Tags: #budding_
+_Tags: #evergreen_
 
 - It allows to document my thoughts mindfully through a [[Curated Recording]].
 - It must enable me to _think better_ and connect ideas. In other words, it follows the concept of BASB that would be independent from my natural and chaotic thought process.

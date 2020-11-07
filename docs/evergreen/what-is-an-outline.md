@@ -1,6 +1,6 @@
 # What Is An Outline?
 
-_Tags: #budding_
+_Tags: #evergreen_
 
 All notes of this digital garden are organised under outlines. An outline is a note representing a strong interest that I want to deepen. Its title can therefore be formulated as an objective.
 

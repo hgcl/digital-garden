@@ -1,6 +1,6 @@
 # Introduction to Data Visualization 
 
-_Tags: #inbox #mooc_
+_Tags: #evergreen #mooc_
 
 ## Info
 

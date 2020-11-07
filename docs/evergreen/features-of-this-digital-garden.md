@@ -1,6 +1,6 @@
 # Features Of This Digital Garden
 
-_Tags: #budding_
+_Tags: #evergreen_
 
 - Link documents with `[[Wiki Links]]`
 - Create new notes with the `Cmd + Shift + N` shortcut
