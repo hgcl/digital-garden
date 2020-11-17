@@ -1,4 +1,4 @@
-# Features Of This Digital Garden
+# Technical Properties Of This Digital Garden
 
 _Tags: #evergreen_
 
