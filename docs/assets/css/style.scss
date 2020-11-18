@@ -26,15 +26,6 @@ input.task-list-item-checkbox {
   margin-right: 4px;
 }
 
-@media only screen and (min-width: 1170px) {
-  img[src*="demo"] {
-    max-width: 130%;
-    margin-left: -15%;
-    margin-top: 20px;
-    margin-bottom: 20px;
-  }
-}
-
 .wikilink:before {
   content: "[[";
   opacity: 0.3;
@@ -43,12 +34,6 @@ input.task-list-item-checkbox {
 .wikilink:after {
   content: "]]";
   opacity: 0.3;
-}
-
-/* dark theme */
-body {
-  color: #eee;
-  background-color: #23323a;
 }
 
 h1,

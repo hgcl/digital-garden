@@ -1,6 +1,6 @@
-# Digital Gardens
+# List Of Digital Gardens
 
-_Tags: #budding_
+_Tags: #evergreen_
 
 - [Andy Matuschak](https://andymatuschak.org/)
 - [Nikita Voloboev](https://wiki.nikitavoloboev.xyz/)

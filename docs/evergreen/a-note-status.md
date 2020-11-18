@@ -1,26 +1,21 @@
-# A Note Status
+# Phases Of A Note
 
 _Tags: #evergreen_
 
-## Inbox
+## inbox
 
-The inbox gathers all transient notes, drafts and fleeting ideas (that I don't want to be fleeting anymore).
+The `#inbox` tag gathers all transient notes, drafts and fleeting ideas (that I don't want to be fleeting anymore). All the notes I produce from reading articles or watching videos begin here.
 
-A new note always starts with the tag `#inbox`, it will then get reworked and switched to the next status—or possibly deleted.
+## tk (to come)
 
-## Budding
+I usually reference interesting concepts inside of my `#inbox` notes directly. This creates new empty `#tk` notes that are waiting to be fleshed out—or possibly deleted.
 
-Notes having been more or less become `#budding`. These notes are usually ideas or concepts that are still being fleshed out and that should be kept under my radar.
-
-## Evergreen
+## evergreen
 
 An `#evergreen` note is considered completed.
 
 It is possible to update an evergreen note, but it will have already been fleshed out at least once.
 
----
+## outline
 
-## Sources
-
-- [A writing inbox for transient and incomplete notes](https://notes.andymatuschak.org/A_writing_inbox_for_transient_and_incomplete_notes) by Andy Matuschak
-- [Growing the Evergreens](https://maggieappleton.com/evergreens) by Maggie Appleton
+All `#evergreen` notes should stem—directly or indirectly—from an `#outline` note. An outline should represent a strong interest that I want to deepen. Its title can therefore be formulated as an objective.
