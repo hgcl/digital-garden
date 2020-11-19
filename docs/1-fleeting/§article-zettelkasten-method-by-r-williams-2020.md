@@ -1,0 +1,59 @@
+# §article Zettelkasten Method by R. Williams (2020)
+
+_Tags: #fleeting #book_
+
+## Info
+
+- Source: https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6
+- Author: Rebecca Williams
+- Publishing Date: 2020
+- Topics: [[Zettelkasten Method]]
+- References: [[§book How To Take Smart Notes by S. Ahrens (2017)]]
+
+## Questions
+
+- What was the first source for this article?
+
+## Notes
+
+- [[Fleeting notes]]
+  - FN are reminders of ideas and concepts
+  - FN must follow at least one of 2 criteria:
+    - You want to remember this idea permanently
+    - You want to use the idea in your work
+  - Always reference the source and author
+  
+- [[Literature notes]]
+  - After filtering out the fleeting notes that speak to me, I get my LN
+  - Elaborate those FN—those reminders—into a paragraph that fully describes the idea
+  - LN follow 5 criteria:
+    - LN should be written in your own words
+    - Written in a way that you understand it in 10 years
+    - 1 note = 1 idea
+    - Include reference (Last Name, year, pp.22) inline and complete source at the bottom
+      - eg. Ahrens, S. (2017). How to take smart notes: One simple technique.
+  
+- [[Permanent notes]] 
+  - PN vs. LN
+    - LN written in the context of the **source**. PN written in context of **your own ideas and interests**.
+    - LN have one connection (= source). PN can have many.
+  - 1 note = 1 idea, as it is easier to connect with other ideas
+
+- How to connect PN, examples:
+  - A term mentioned in a note which links to a term definition note.
+  - An author mentioned in a note which links to an author biography note.
+  - A note which directly contradicts findings in a note that contains a fact, study, opinion.
+  - A note which adds something to the existing note.
+  - A personal comment on the idea contained in another note.
+  - Use a bridge note
+  - Connect with a topic index note
+
+- [[Index notes]]
+  - Represents a cluster of PN (that you detect after a while)
+  - They are similar to an individual article outline, table of content of an article
+  - Created from content that already exists
+
+- [[Keyword notes]]
+  - An index note = table of content of an article
+  - A KN = table of content of a book (= broader topic), eg. art
+  - Index notes are often linked inside of KN. Eg. Art (KN) > Art goals (IN)

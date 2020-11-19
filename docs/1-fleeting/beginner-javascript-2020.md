@@ -1,6 +1,6 @@
 # Beginner Javascript (2020)
 
-_Tags: #website #inbox_
+_Tags: #fleeting_
 
 ## Info
 
