@@ -25,13 +25,6 @@
     "body": ["_Tags: #_"],
     "description": "Ajoute un tag"
   }
-  "Inbox": {
-    "prefix": ["/inbox"],
-    "body": ["_Tags: #inbox_",
-    "",
-  "- $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE"],
-    "description": "Ajoute un tag inbox + date"
-  }
   "Filename as title": {
     "prefix": ["/title"],
     "body": ["# ${TM_FILENAME_BASE/(.*)/${1:/capitalize}/}"],
@@ -44,9 +37,9 @@
 		"",
 		"## Info",
 		"",
-		"- Source: ",
 		"- Author: ",
-		"- Publishing Date: ",
+    "- Publishing Date: ",
+    "- XXX pages",
 		"- Topics:" , 
 		"- Synopsis: ",	
 		"",
