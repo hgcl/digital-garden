@@ -25,6 +25,18 @@
     "body": ["_Tags: #_"],
     "description": "Ajoute un tag"
   }
+  "Add literature note": {
+    "prefix": ["/literature"],
+    "body": [
+      "_Tags: #literature_",
+      "",
+      "",
+      "",
+      "___",
+      "References:"],
+    ],
+    "description": "Ajoute un tag literature"
+  }
   "Filename as title": {
     "prefix": ["/title"],
     "body": ["# ${TM_FILENAME_BASE/(.*)/${1:/capitalize}/}"],
