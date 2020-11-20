@@ -20,21 +20,21 @@
     "body": ["$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE"],
     "description": "Add the current date"
   }
-  "Tags": {
-    "prefix": ["/tag"],
-    "body": ["_Tags: #_"],
-    "description": "Ajoute un tag"
+  "Fleeting template": {
+    "prefix": ["/fleeting"],
+    "body": [
+      "---",
+      "tags: [fleeting]",
+      "---"],
+    "description": "Ajoute un tag fleeting"
   }
-  "Add literature note": {
+  "Literature template": {
     "prefix": ["/literature"],
     "body": [
-      "_Tags: #literature_",
-      "",
-      "",
-      "",
-      "___",
-      "References:"],
-    ],
+      "---",
+      "tags: [literature]",
+      "reference:"
+      "---"],
     "description": "Ajoute un tag literature"
   }
   "Filename as title": {
@@ -45,48 +45,23 @@
   "Book template": {
     "prefix": ["/book"],
 	"body": [
-		"_Tags: #book_",
-		"",
-		"## Info",
-		"",
-		"- Author: ",
-    "- Publishing Date: ",
-    "- XXX pages",
-		"- Topics:" , 
-		"- Synopsis: ",	
-		"",
-		"## Notes"],
+    "---",
+      "tags: [fleeting, bibliography, book]",
+      "author:",
+      "publishingdate:",
+      "pagenumber:",
+      "---"],
     "description": "Add a book template"
   }
   "Article template": {
     "prefix": ["/article"],
 	"body": [
-		"_Tags: #article_",
-		"",
-		"## Info",
-		"",
-		"- Source: ",
-		"- Author: ",
-		"- Publishing Date: ",
-		"- Topics: ", 
-		"- Synopsis: ",	
-		"",
-		"## Notes"],
+    "---",
+      "tags: [fleeting, bibliography, article]",
+      "source:",
+      "author:",
+      "publishingdate:",
+      "---"],
     "description": "Add an article template"
-  }
-  "Website template": {
-    "prefix": ["/website"],
-	"body": [
-		"_Tags: #website_",
-		"",
-		"## Info",
-		"",
-		"- Source: ",
-		"- Author: ",
-		"- Topics: ", 
-		"- Synopsis: ",	
-		"",
-		"## Notes"],
-    "description": "Add a website template"
   }
 }
