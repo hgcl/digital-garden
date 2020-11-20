@@ -1,11 +1,13 @@
-# Beginner Javascript (2020)
+---
+tags: [fleeting, bibliography, class]
+source: https://beginnerjavascript.coos
+author: Wes Bos
+---
 
-_Tags: #fleeting_
+# Beginner Javascript (2020)
 
 ## Info
 
-- Source: https://beginnerjavascript.com/
-- Author: Wes Bos
 - Topics:
 - Synopsis: Learn Javascript basics
 

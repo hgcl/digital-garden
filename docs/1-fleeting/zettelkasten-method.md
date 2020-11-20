@@ -1,8 +1,5 @@
+---
+tags: [fleeting, literature]
+reference:
+---
 # Zettelkasten Method
-
-_Tags: #literature_
-
-
-
-___
-References:

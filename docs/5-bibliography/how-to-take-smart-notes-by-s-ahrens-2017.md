@@ -1,14 +1,15 @@
-# §book How to Take Smart Notes by S. Ahrens (2017)
+---
+tags: [fleeting, bibliography, book]
+author: Sönke Ahrens
+publishingdate: 2017
+pagenumber: 178
+---
 
-_Tags: #fleeting #book_
+# How to Take Smart Notes by S. Ahrens (2017)
 
 ## Info
 
-- Author: Sönke Ahrens
-- Publishing Date: 2017
-- 178 pages
 - Topics: [[Zettelkasten Method]]
-- Synopsis: 
 
 ## Notes
 
