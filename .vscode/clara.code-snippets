@@ -32,7 +32,7 @@
     "prefix": ["/literature"],
     "body": [
       "---",
-      "tags: [literature]",
+      "tags: [fleeting, literature]",
       "reference:"
       "---"],
     "description": "Ajoute un tag literature"
