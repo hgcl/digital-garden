@@ -1,5 +1,5 @@
 ---
-tags: [bibliography, article]
+tags: [reference, article]
 source:  https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6
 author: Rebecca Williams
 publishingdate: 2020

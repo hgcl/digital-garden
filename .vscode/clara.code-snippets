@@ -46,7 +46,7 @@
     "prefix": ["/book"],
 	"body": [
     "---",
-      "tags: [fleeting, bibliography, book]",
+      "tags: [fleeting, reference, book]",
       "author:",
       "publishingdate:",
       "pagenumber:",
@@ -57,7 +57,7 @@
     "prefix": ["/article"],
 	"body": [
     "---",
-      "tags: [fleeting, bibliography, article]",
+      "tags: [fleeting, reference, article]",
       "source:",
       "author:",
       "publishingdate:",

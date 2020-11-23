@@ -1,0 +1,42 @@
+---
+tags: [fleeting, reference, article]
+source: https://www.scientificamerican.com/article/the-denialist-playbook/
+author: Sean B. Carroll
+publishingdate: 2020
+---
+
+# The Denialist Playbook by S. Carroll (2020)
+
+## Notes
+- In the 1950s, more than 200,000 Americans were disabled by the poliovirus.
+  - In 1955, a vaccine was finally found. Chiropractors actively opposed the vaccination campaign.
+- General patterns of arguments of all denialist movements are the same:
+  1. Doubt the Science
+  2. Question Scientists’ Motives and Integrity
+  3. Magnify Disagreements among Scientists and Cite Gadflies as Authorities
+  4. Exaggerate Potential Harm
+  5. Appeal to Personal Freedom
+  6. Reject Whatever Would Repudiate A Key Philosophy
+
+- Doubt the Science
+  - Either by doubting the entire scientific discipline or with arguments against a specific scientific claim.
+  - eg. Chiropractors explained the decrease of polio with other reasons.
+  - eg. COVID: doubting threat posed by the coronavirus
+- Question Scientists’ Motives and Integrity
+  - eg. In vaccination => scientists with conflicting financial interests, manufacturers greed, governor officials controlling the results
+- Magnify Disagreements among Scientists and Cite Gadflies as Authorities
+  - Differences between scientists are inflated by denialists "to imply a lack of consensus on more fundamental points, while often propounding the contradictory views of a few unqualified outliers".
+  - eg. Chiropractors used the word of one outlier critic to vaccination (Viera Scheibner) even though her expertise was geology, not biology.
+  - eg. COVID: belief in alternative treatments over experts
+- Exaggerate Potential Harm
+  - Incite fear, emphasize potential side-effects
+- Appeal to Personal Freedom
+  - eg. Against compulsory vaccination, teaching of evolution in public school (freedom of religion)
+  - eg. COVID: anti-lockdown
+- Reject Whatever Would Repudiate a Key Philosophy 
+  - eg. "Chiropractic was founded in the early 20th century on the assertion that all disease has its origins in misalignments of the spine." >> Germ theory and vaccination goes against this key belief
+  - Historian of science Naomi Oreskes calls it “implicatory denial"—*that is to say, we reject scientific findings because we don’t like their implications.*
+  - https://www.newyorker.com/news/q-and-a/how-to-talk-to-coronavirus-skeptics
+
+
+- > [W]hen people feel a strong connection to a political party, leader, ideology, or belief, they are more likely to let that allegiance do their thinking for them and distort or ignore the evidence that challenges those loyalties. — *Psychologists Elliot Aronson and Carol Tavris in the Atlantic*
