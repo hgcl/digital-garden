@@ -28,6 +28,14 @@
       "---"],
     "description": "Ajoute un tag fleeting"
   }
+  "Permanent template": {
+    "prefix": ["/permanent"],
+    "body": [
+      "---",
+      "tags: [permanent]",
+      "---"],
+    "description": "Ajoute un tag permanent"
+  }
   "Literature template": {
     "prefix": ["/literature"],
     "body": [

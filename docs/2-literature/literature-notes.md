@@ -1,6 +1,6 @@
 ---
 tags: [literature]
-reference: [[Zettelkasten Method by R. Williams (2020)]]
+reference: [[Zettelkasten Method (2020)]]
 ---
 # Literature Notes
 

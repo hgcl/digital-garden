@@ -6,7 +6,7 @@ publishingdate: 2019
 dateretrieved: 2020-11-22
 ---
 
-# Don’t quit your day job by T. Maloney (2019)
+# Don’t quit your day job (2019)
 
 ## Notes
 

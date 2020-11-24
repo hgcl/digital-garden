@@ -6,7 +6,7 @@ publishingdate: 2018
 dateretrieved:
 ---
 
-# Becoming A Magician by Autotranslucence (2018)
+# Becoming A Magician (2018)
 
 TO READ
 

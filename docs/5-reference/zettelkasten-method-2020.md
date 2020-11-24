@@ -6,7 +6,7 @@ publishingdate: 2020
 dateretrieved: 2020-11-22
 ---
 
-# Zettelkasten Method by R. Williams (2020)
+# Zettelkasten Method (2020)
 
 ## Info
 
