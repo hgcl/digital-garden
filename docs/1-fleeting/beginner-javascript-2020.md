@@ -1,7 +1,8 @@
 ---
-tags: [fleeting, bibliography, class]
+tags: [fleeting, reference, class]
 source: https://beginnerjavascript.coos
 author: Wes Bos
+dateretrieved:
 ---
 
 # Beginner Javascript (2020)

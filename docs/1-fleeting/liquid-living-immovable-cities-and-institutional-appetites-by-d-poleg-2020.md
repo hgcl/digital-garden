@@ -1,8 +1,9 @@
 ---
-tags: [fleeting, bibliography, article]
+tags: [fleeting, reference, article]
 source: https://rethinking.re/blog/liquid-living-immovable-cities-and-institutional-appetites/
 author: Dror Poleg
 publishingdate: 2020
+dateretrieved: 2020-11-23
 ---
 
 # Liquid Living, Immovable Cities, and Institutional Appetites by D. Poleg (2020)

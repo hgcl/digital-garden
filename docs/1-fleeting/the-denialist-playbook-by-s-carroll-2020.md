@@ -3,6 +3,7 @@ tags: [fleeting, reference, article]
 source: https://www.scientificamerican.com/article/the-denialist-playbook/
 author: Sean B. Carroll
 publishingdate: 2020
+dateretrieved: 2020-11-23
 ---
 
 # The Denialist Playbook by S. Carroll (2020)
