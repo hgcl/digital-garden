@@ -1,5 +1,5 @@
 ---
-tags: [bibliography, article]
+tags: [reference, article]
 source: https://aeon.co/essays/dont-quit-your-day-job-the-benefits-of-being-a-bifurcator
 author: Thomas Maloney
 publishingdate: 2019
