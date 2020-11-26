@@ -1,0 +1,34 @@
+---
+tags: [literature]
+reference: [[the-para-method-2017.md]]
+---
+
+# P.A.R.A. Method
+
+The P.A.R.A. Method is a widely used organizational method created by Tiago Forte. It stands for Projects—Areas of Responsibility—Resources—Archive.
+
+## Projects
+
+A project is a series of tasks that need to be completed to achieve a specific goal. It is bound in time and has a deadline.
+
+*Examples of projects: create the Onboarding Guide, complete app mockup, write blog post.*
+
+A project can be made of one or several tasks. In the "write blog post" example, tasks could be: *research topic, write first draft, SEO optimization, etc.*
+
+## Areas of Responsibility
+
+Whereas projects are bound in time, areas of responsibility have to be maintained indefinitely. They are broader goals that you commit to and can never be marked as "done".
+
+*Example of areas: Health, Finances, Personal Development, Become a better manager, etc.*
+
+## Resources
+
+Forte describes a resource as *"a topic or theme of ongoing interest"*.
+
+*Examples of resources: habit formation, project management, transhumanism, coffee, etc.*
+
+They are topics of articles, links, podcasts—well... resources—that you store in your bookmarks, to-read list or in any other means.
+
+## Archive
+
+The inactive items from the other three sections are placed in the archive.
