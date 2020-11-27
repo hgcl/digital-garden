@@ -1,5 +1,5 @@
 ---
-tags: [fleeting, reference, article]
+tags: [reference, article]
 source: https://fortelabs.co/blog/para/
 author: Tiago Forte
 publishingdate: 2017

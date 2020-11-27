@@ -1,5 +1,5 @@
 ---
-tags: [fleeting, reference, article]
+tags: [archive, reference, article]
 source: https://rethinking.re/blog/liquid-living-immovable-cities-and-institutional-appetites/
 author: Dror Poleg
 publishingdate: 2020

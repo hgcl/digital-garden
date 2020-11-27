@@ -1,5 +1,5 @@
 ---
-tags: [fleeting, reference, class]
+tags: [archive, reference, class]
 source: https://beginnerjavascript.coos
 author: Wes Bos
 dateretrieved:
