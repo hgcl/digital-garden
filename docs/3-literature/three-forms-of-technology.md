@@ -1,0 +1,21 @@
+---
+tags: [literature]
+reference: [[how-technology-grows-2018.md]]
+---
+
+# Three Forms of Technology
+
+Technology used to be a lot more than just the computing and digital world. Writing is a technology.
+
+Dan Wang explains that technology can take three forms: tools, instructions and process knowledge.
+
+Tools are simply pots, screwdrivers and phones for instance. They are objects that can be used.
+
+Instructions can be explained. With the kitchen analogy, instructions would be recipes.
+
+Process knowledge is the know-how. It is the tacit knowledge, the technical experience that is built with time.
+
+> Process knowledge is the kind of knowledge that’s hard to write down as an instruction. You can give someone a well-equipped kitchen and an extraordinarily detailed recipe, but unless he already has some cooking experience, we shouldn’t expect him to prepare a great dish.
+> 
+> — Dan Wang
+

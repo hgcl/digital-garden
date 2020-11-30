@@ -1,5 +1,5 @@
 ---
-tags: [fleeting, reference, book]
+tags: [reference, book]
 author: Max Weber
 publishingdate: 1905
 pagenumber:
@@ -9,3 +9,4 @@ dateretrieved: 2020-11-30
 
 # The Protestant Ethic and the Spirit of Capitalism (1905)
 
+Not read
