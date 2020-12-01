@@ -8,8 +8,6 @@ dateretrieved: 2020-11-26
 
 # The PARA Method (2017)
 
-## Notes
-
 - Overview of the [[P.A.R.A. Method]] 
   - P.A.R.A. stands for Projects — Areas — Resources — Archives
   - It is an organizational method for life and work created by Tiago Forte

@@ -8,8 +8,6 @@ dateretrieved: 2020-11-23
 
 # The Denialist Playbook (2020)
 
-## Notes
-
 - In the 1950s, more than 200,000 Americans were disabled by the poliovirus.
   - In 1955, a vaccine was finally found. Chiropractors actively opposed the vaccination campaign.
 - [[AGeneral Argument Patterns of Denialists]] are the same:
