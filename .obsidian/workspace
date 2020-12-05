@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/3-literature/three-forms-of-technology.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -50,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 122
+    "width": 171
   },
   "right": {
     "id": "17c02f50d597c17b",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/3-literature/three-forms-of-technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "docs/2-literature/habit-of-progression.md",
-    "docs/1-fleeting/becoming-a-magician.md",
-    "Zettelkasten Method.md",
-    "docs/0-reference/how-to-take-smart-notes-2017.md",
-    "docs/1-fleeting/test-obsidian.md",
-    "docs/1-fleeting/polymath-as-an-excuse.md",
-    "docs/1-fleeting/Test Obsidian.md",
-    "docs/1-fleeting/liquid-living-immovable-cities-and-institutional-appetites-2020.md",
-    "Untitled.md",
-    "docs/2-literature/fleeting-notes.md"
+    "docs/3-literature/three-forms-of-technology.md",
+    "docs/3-literature/stop-speculating-about-what-is-best.md",
+    "docs/3-literature/process-knowledge.md",
+    "docs/3-literature/outputs-must-be-aligned-with-your-goals.md",
+    "docs/3-literature/literature-notes.md",
+    "docs/3-literature/ignoring-your-path-to-become-a-magician.md",
+    "docs/3-literature/habit-of-progression.md",
+    "docs/3-literature/fleeting-notes.md",
+    "docs/3-literature/denialists.md",
+    "docs/3-literature/decaying-web.md"
   ]
 }

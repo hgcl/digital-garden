@@ -17,5 +17,5 @@ Process knowledge is the know-how. It is the tacit knowledge, the technical expe
 
 > Process knowledge is the kind of knowledge that’s hard to write down as an instruction. You can give someone a well-equipped kitchen and an extraordinarily detailed recipe, but unless he already has some cooking experience, we shouldn’t expect him to prepare a great dish.
 > 
-> — Dan Wang
+> — Dan Wang, How Technology Grows (2018)
 
