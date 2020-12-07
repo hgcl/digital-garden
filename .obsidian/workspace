@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs/3-literature/three-forms-of-technology.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/3-literature/three-forms-of-technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +82,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "docs/1-reference/becoming-a-magician-2018.md",
+    "docs/1-reference/how-technology-grows-2018.md",
     "docs/3-literature/three-forms-of-technology.md",
     "docs/3-literature/stop-speculating-about-what-is-best.md",
     "docs/3-literature/process-knowledge.md",
@@ -93,8 +91,6 @@
     "docs/3-literature/literature-notes.md",
     "docs/3-literature/ignoring-your-path-to-become-a-magician.md",
     "docs/3-literature/habit-of-progression.md",
-    "docs/3-literature/fleeting-notes.md",
-    "docs/3-literature/denialists.md",
-    "docs/3-literature/decaying-web.md"
+    "docs/3-literature/fleeting-notes.md"
   ]
 }
