@@ -1,5 +1,5 @@
 ---
-tags: [fleeting]
+tags: [permanent, question]
 ---
 
 # Polymath As An Excuse
@@ -7,7 +7,7 @@ tags: [fleeting]
 While reading [[how-to-be-great-just-be-good-repeatably-2020]], the following phrase resonated with me:
 > It’s easy to pivot from side project to side project, focusing on the new shiny object of the month.
 
-Is saying that I am a polymath and that I get bored easily of one single topic / project—therefore jumping from project to project—not a simple excuse?
+Is saying that I am a polymath and that I get bored easily of one single topic / project—therefore jumping from project to project—a simple excuse? 
 
 Do I say that as a way to lessen the fact that I am simply not ready to commit and build great habits?
 

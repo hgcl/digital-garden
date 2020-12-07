@@ -1,0 +1,17 @@
+---
+tags: [[reference, article]]
+author: MSalman Ansari
+source: https://salman.io/notes/the-definition-of-a-polymath
+dateretrieved: 2020-12-07
+---
+
+# The Definition of a Polymath
+
+In Salman Ansari's words, a polymath is someone who:
+
+>  - Engages in extended learning in disparate fields, industries and/or skills.
+>  - Applies learnings by connecting ideas from different areas to solve problems in unique ways.
+
+The following quote also resonated with me. Do I tend to be a scholar?
+
+> In my view, the key is application of learnings. I think if you’re learning about a ton of fields without applying them in practice, that makes you more of a scholar than a polymath (and more power to you!). 

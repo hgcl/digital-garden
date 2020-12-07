@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "670c1fb044d19a0c",
+        "id": "e34a2016acabf357",
         "type": "leaf",
         "active": true,
         "state": {
@@ -50,7 +50,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 171
+    "width": 291
   },
   "right": {
     "id": "17c02f50d597c17b",
@@ -82,15 +82,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "docs/1-reference/becoming-a-magician-2018.md",
-    "docs/1-reference/how-technology-grows-2018.md",
-    "docs/3-literature/three-forms-of-technology.md",
-    "docs/3-literature/stop-speculating-about-what-is-best.md",
-    "docs/3-literature/process-knowledge.md",
-    "docs/3-literature/outputs-must-be-aligned-with-your-goals.md",
-    "docs/3-literature/literature-notes.md",
-    "docs/3-literature/ignoring-your-path-to-become-a-magician.md",
-    "docs/3-literature/habit-of-progression.md",
-    "docs/3-literature/fleeting-notes.md"
+    "docs/2-fleeting/the-need-to-bifurcate-as-a-polymath.md",
+    "docs/2-fleeting/the-denialist-playbook-2020.md",
+    "docs/2-fleeting/the-definition-of-a-polymath.md",
+    "Untitled.md",
+    "docs/1-reference/zettelkasten-method-2020.md",
+    "docs/2-fleeting/how-to-connect-permanent-notes.md",
+    "docs/3-literature/polymath.md",
+    "docs/2-fleeting/polymath.md",
+    "docs/1-reference/the-protestant-ethic-and-the-spirit-of-capitalism-1905.md",
+    "docs/1-reference/becoming-a-magician-2018.md"
   ]
 }
