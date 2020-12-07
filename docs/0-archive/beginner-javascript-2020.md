@@ -29,7 +29,7 @@ dateretrieved:
   - Parameteres and arguments
     - [Cheat sheet](https://github.com/wesbos/beginner-javascript/blob/master/function-definition.jpg)
     - _Parameters_ are the placeholders of the function
-      - Parameters from different functions can use the same name, they won't overwrite each other.
+      - Parameters from different functions can use the same name, they won‘t overwrite each other.
       - Default value of a parameter: `function hey(name = 'Clara') { ... }`
         - If there are multiple default parameters in one function, the argument that have to default must be marked `undefined`
     - _Arguments_ are actual values replacing the parameters when the function is invoked
@@ -46,11 +46,11 @@ dateretrieved:
       - `(function() { console.log('Hello there'); }) ();`
     - Methods
       - Function that lives inside of an object
-      - e.g. console.log('hey')
+      - e.g. console.log(‘hey’)
         - log is a function
         - console is an object
       - `const wes = { name: 'Bos', sayHi: function() { ... } }`
         - I can call the method `wes.sayHi()`
         - Usually use method shorthand: `sayHi()` instead of `sayHi: function()`
     - Callback function
-      - "When someone clicks something, run this" or "When duration passed, run this".
+      - “When someone clicks something, run this” or “When duration passed, run this”.

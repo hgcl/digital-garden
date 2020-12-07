@@ -1,6 +1,6 @@
 ---
 tags: [literature]
-reference: [[the-protestant-ethic-and-the-spirit-of-capitalism.md]]
+reference: [[the-protestant-ethic-and-the-spirit-of-capitalism-1905]]
 ---
 
 # Protestant Work Ethic Lead To Capitalism
@@ -13,7 +13,10 @@ This resulted in a community where people valued hard-work and little spending, 
 
 ## As Valuable As Your Job
 
-Nowadays, your value as a person is often closely connected to your job. Indulgence is seen as inherently bad. Many frown upon the idea of a "basic income" as you "need to have a job and do your part in the world".
+Nowadays, your value as a person is often closely connected to your job. Indulgence is seen as inherently bad. Many frown upon the idea of a “basic income” as you “need to have a job and do your part in the world”.
 
 ---
+
+Reference: [[the-protestant-ethic-and-the-spirit-of-capitalism-1905]]
+
 <sup>1</sup>&nbsp;Quote from the Wikipedia article [Protestant Work Ethic](https://en.wikipedia.org/wiki/Protestant_work_ethic)

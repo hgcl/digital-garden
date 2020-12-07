@@ -1,11 +1,11 @@
 ---
 tags: [literature]
-reference: [[Zettelkasten Method (2020)]]
+reference: [[zettelkasten-method-2020]
 ---
 
 # Fleeting Notes
 
-A fleeting note is a type of note that is part of the [[Zettelkasten Method]].
+A fleeting note is a type of note that is part of the [[zettelkasten-method]].
 
 When reading, watching a documentary, listening to a podcast, you might discover a piece of information you want to remember. It might also be a simple thought unrelated to any source.
 

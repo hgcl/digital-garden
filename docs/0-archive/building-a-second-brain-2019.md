@@ -3,7 +3,7 @@ tags: [archive, reference, article]
 source: https://fortelabs.co/blog/basboverview/
 author: Tiago Forte
 publishingdate: 2019
-dateretrieved: 2020-11-0
+dateretrieved: 2020-11-20
 ---
 
 # Building A Second Brain (2019)

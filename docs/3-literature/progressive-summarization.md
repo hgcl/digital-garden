@@ -1,6 +1,6 @@
 ---
 tags: [literature]
-reference: [[progressive-summarization-2017.md]]
+reference: [[progressive-summarization-2017]]
 ---
 
 # Progressive Summarization

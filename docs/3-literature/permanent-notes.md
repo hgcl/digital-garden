@@ -1,15 +1,15 @@
 ---
 tags: [literature]
-reference: [[Zettelkasten Method (2020)]]
+reference: [[zettelkasten-method-2020]]
 ---
 
 # Permanent Notes
 
-A permanent note is a type of note that is part of the [[Zettelkasten Method]].
+A permanent note is a type of note that is part of the [[zettelkasten-method]].
 
-It is easiest to explain permanent notes in contrast to [[literature notes]]. 
+It is easiest to explain permanent notes in contrast to [[literature-notes]]. 
 
-A literature note is exclusively based on one external source. It can therefore only have one backlink. On contrary, permanent notes are created in the context of your life experiences, interests and personal thoughts. In other words, a permanent note is an "original creation" with possibly multiple links.
+A literature note is exclusively based on one external source. It can therefore only have one backlink. On contrary, permanent notes are created in the context of your life experiences, interests and personal thoughts. In other words, a permanent note is an “original creation” with possibly multiple links.
 
 As with literature notes, a permanent note should only contain one idea or concept.
 
