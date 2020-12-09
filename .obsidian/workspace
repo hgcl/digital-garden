@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e34a2016acabf357",
+        "id": "77506264edd537b6",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/2-fleeting/can-polymaths-be-magicians.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -50,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291
+    "width": 219
   },
   "right": {
     "id": "17c02f50d597c17b",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/2-fleeting/can-polymaths-be-magicians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "docs/2-fleeting/the-need-to-bifurcate-as-a-polymath.md",
-    "docs/2-fleeting/the-denialist-playbook-2020.md",
-    "docs/2-fleeting/the-definition-of-a-polymath.md",
-    "Untitled.md",
-    "docs/1-reference/zettelkasten-method-2020.md",
-    "docs/2-fleeting/how-to-connect-permanent-notes.md",
-    "docs/3-literature/polymath.md",
-    "docs/2-fleeting/polymath.md",
-    "docs/1-reference/the-protestant-ethic-and-the-spirit-of-capitalism-1905.md",
-    "docs/1-reference/becoming-a-magician-2018.md"
+    "docs/2-fleeting/can-polymaths-be-magicians.md",
+    "docs/4-permanent/i-have-an-early-adopter-personality.md",
+    "docs/6-people/robin.md",
+    "docs/6-people/niklas-luhmann.md",
+    "robin.md",
+    "docs/4-permanent/polymath-as-an-excuse.md",
+    "docs/4-permanent/my-note-taking-system.md",
+    "docs/4-permanent/foam-in-vs-code.md",
+    "docs/4-permanent/foam.md",
+    "docs/4-permanent/becoming-a-magician-incrementally.md"
   ]
 }

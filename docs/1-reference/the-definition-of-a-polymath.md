@@ -1,13 +1,13 @@
 ---
 tags: [[reference, article]]
-author: MSalman Ansari
+author: Salman Ansari
 source: https://salman.io/notes/the-definition-of-a-polymath
 dateretrieved: 2020-12-07
 ---
 
 # The Definition of a Polymath
 
-In Salman Ansari's words, a polymath is someone who:
+In [[salman-ansari]]'s words, a polymath is someone who:
 
 >  - Engages in extended learning in disparate fields, industries and/or skills.
 >  - Applies learnings by connecting ideas from different areas to solve problems in unique ways.

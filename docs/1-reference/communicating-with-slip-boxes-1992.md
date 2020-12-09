@@ -8,6 +8,8 @@ dateretrieved: 2020-11-26
 
 # Communicating With Slip Boxes (1992)
 
+*Method created by [[niklas-luhmann]]*
+
 - [[zettelkasten-method]]
 - Birth of a [[second-brain]]
   - > As a result of extensive work with this technique a kind of secondary memory will arise, an alter ego with who we can constantly communicate. It proves to be similar to our own memory in that it does not have a thoroughly constructed order of its entirety, not hierarchy, and most certainly no linear structure like a book. Just because of this, it gets its own life, independent of its author.

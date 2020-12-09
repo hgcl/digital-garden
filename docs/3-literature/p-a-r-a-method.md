@@ -5,7 +5,7 @@ reference: [[the-para-method-2017]]
 
 # P.A.R.A. Method
 
-The P.A.R.A. Method is a widely used organizational method created by Tiago Forte. It stands for Projects—Areas of Responsibility—Resources—Archive.
+The P.A.R.A. Method is a widely used organizational method created by [[tiago-forte]]. It stands for Projects—Areas of Responsibility—Resources—Archive.
 
 ## Projects
 

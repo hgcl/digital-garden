@@ -5,7 +5,7 @@ reference: [[progressive-summarization-2017]]
 
 # Progressive Summarization
 
-Progressive summarization is a note-taking technique created by Tiago Forte. When creating notes from a source, its objective is to find the right balance between discoverability and understanding.
+Progressive summarization is a note-taking technique created by [[tiago-forte]]. When creating notes from a source, its objective is to find the right balance between discoverability and understanding.
 
 ## Discoverability vs. Understanding
 

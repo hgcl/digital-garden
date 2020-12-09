@@ -4,7 +4,7 @@ reference: [[communicating-with-slip-boxes-1992]]
 ---
 # Zettelkasten Method
 
-The Zettelkasten Method was created by Niklas Luhmann in the 20th century.
+The Zettelkasten Method was created by [[niklas-luhmann]] in the 20th century.
 
 It consisted of a system of paper cards that were linked to one another in a web of ideas. As each card encompasses only one atomic concept, it can easily be connected to cards about completely different topics.
 

@@ -1,0 +1,8 @@
+---
+tags: [people]
+website: https://fortelabs.co/
+---
+
+# Tiago Forte
+
+Tiago Forte is a productivity guru. He is the creator of the [[p-a-r-a-method]] as well as the [Build a Second Brain](https://www.buildingasecondbrain.com/) online course.

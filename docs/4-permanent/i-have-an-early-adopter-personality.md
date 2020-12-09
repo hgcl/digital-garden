@@ -1,0 +1,15 @@
+---
+tags: [permanent]
+---
+
+# I Have An Early Adopter Personality
+
+It is right after I adopted several alpha-grade softwares in 2020 that [[robin]] first called me an early adopter type of person.
+
+We laughed it off... until I realized how true it was. I definitely tend to adopt softwares and online services right when discovering them—if they talk to me. I go as far as migrating all my data from one software to another, without much thought for the consequences.
+
+Here are some examples from 2020 alone:
+- [Foam](https://foambubble.github.io/)
+- [Notion](https://www.notion.so/)
+- [Newslettrs](https://newslettrs.app/)
+- [Hypothesis](https://hypothes.is/)—which quickly replaced [PaperSpan](https://www.paperspan.com/)

@@ -1,5 +1,5 @@
 ---
-tags: [fleeting, literature]
+tags: [archive, literature]
 reference: [[the-denialist-playbook-2020]]
 ---
 
@@ -15,6 +15,11 @@ reference: [[the-denialist-playbook-2020]]
   6. Reject Whatever Would Repudiate A Key Philosophy
 
 ## Doubt the Science
+A pattern of argument is doubting an entire discipline or a specific scientific claim. 
+
+Examples are:
+- chiropractors explaining the decrease of polio—following vaccination—with other reasons
+- Covid-19 skeptics doubting the threat of the virus
 
 ## Question Scientists’ Motives and Integrity
 

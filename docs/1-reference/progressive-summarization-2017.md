@@ -8,6 +8,8 @@ dateretrieved: 2020-11-30
 
 # Progressive Summarization (2017)
 
+*Method coined by [[tiago-forte]]*
+
 ## Knowledge Management Systems
 
 - Tagging-first system

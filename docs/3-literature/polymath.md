@@ -5,7 +5,7 @@ reference: [[the-definition-of-a-polymath]]
 
 # Polymath
 
-I use Salman Ansari's definition of the word polymath in [[the-definition-of-a-polymath]].
+I use [[salman-ansari]]'s definition of the word polymath in [[the-definition-of-a-polymath]].
 
 The short version says that *polymath* is a fancy word for *generalist*.
 
