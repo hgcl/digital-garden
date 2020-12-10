@@ -43,7 +43,7 @@ dateretrieved: 2020-11-22
     - LN have one connection (= source). PN can have many.
   - 1 note = 1 idea, as it is easier to connect with other ideas
 
-- [[how-to-connect-permanent-notes]], examples: 
+- how to connect permanent notes, examples: 
   - A term mentioned in a note which links to a term definition note.
   - An author mentioned in a note which links to an author biography note.
   - A note which directly contradicts findings in a note that contains a fact, study, opinion.
