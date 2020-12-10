@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/2-fleeting/can-polymaths-be-magicians.md",
+            "file": "docs/2-fleeting/how-to-connect-permanent-notes.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2-fleeting/can-polymaths-be-magicians.md",
+                "file": "docs/2-fleeting/how-to-connect-permanent-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "docs/2-fleeting/how-to-connect-permanent-notes.md",
     "docs/2-fleeting/can-polymaths-be-magicians.md",
     "docs/4-permanent/i-have-an-early-adopter-personality.md",
     "docs/6-people/robin.md",
@@ -94,7 +95,6 @@
     "docs/4-permanent/polymath-as-an-excuse.md",
     "docs/4-permanent/my-note-taking-system.md",
     "docs/4-permanent/foam-in-vs-code.md",
-    "docs/4-permanent/foam.md",
-    "docs/4-permanent/becoming-a-magician-incrementally.md"
+    "docs/4-permanent/foam.md"
   ]
 }
