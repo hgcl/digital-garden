@@ -29,3 +29,10 @@
 - Compare
   - > Edward Tufte writes that “At the heart of quantitative reasoning is a single question: Compared to what?” A visualization is at its heart, a tool for making comparisons. Thus the single most important question to answer when designing one is: what comparisons should be enabled? (p. 35)
   - designer job = define which comparisons are the most important and use the most effective encoding methods for them first
+  - 6 types of relationships / comparisons
+    - Numbers: quantities, sizes
+    - Rank: same as numbers but divided by ranges (so not as precise)
+    - Location: geographic
+    - Time: timeline, positions in time
+    - Categories: qualitative
+    - Connection: types of links between data points
