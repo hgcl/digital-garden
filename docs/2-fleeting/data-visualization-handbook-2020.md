@@ -35,4 +35,4 @@
     - Location: geographic
     - Time: timeline, positions in time
     - Categories: qualitative
-    - Connection: types of links between data points
+    - Connections: types of links between data points
