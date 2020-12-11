@@ -28,3 +28,4 @@
   - Want to visualize a single number? Compare it to a reference point to get a reference (e.g. how many X can you fit in a football field)
 - Compare
   - > Edward Tufte writes that “At the heart of quantitative reasoning is a single question: Compared to what?” A visualization is at its heart, a tool for making comparisons. Thus the single most important question to answer when designing one is: what comparisons should be enabled? (p. 35)
+  - designer job = define which comparisons are the most important and use the most effective encoding methods for them first
