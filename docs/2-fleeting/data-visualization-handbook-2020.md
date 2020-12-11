@@ -26,3 +26,5 @@
 - Simplify
   - a single number is not worth visualizing, smaller sets are understood better when in a table or in written form
   - Want to visualize a single number? Compare it to a reference point to get a reference (e.g. how many X can you fit in a football field)
+- Compare
+  - > Edward Tufte writes that “At the heart of quantitative reasoning is a single question: Compared to what?” A visualization is at its heart, a tool for making comparisons. Thus the single most important question to answer when designing one is: what comparisons should be enabled? (p. 35)
