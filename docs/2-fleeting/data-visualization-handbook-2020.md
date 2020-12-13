@@ -1,0 +1,38 @@
+# Data Visualization Handbook (2020)
+
+## 1. Introduction
+
+> The purpose of visualization is insight, not pictures 
+> — Ben Shneiderman
+
+> The most important decision in making a map is not what to put in, but what to leave oShneiderman
+
+- Definition of information design
+  - > The selection of the presentation method and a layout for the information, taking into account the capabilities and limitations of the visual system, is called information design. (p. 20)
+  - > Information design is about presenting information in the clearest way possible. According to the definition suggested by the researcher Robert E. Horn (2000), information design is “the art and science of preparing information so that it can be used by human beings with efficiency and effectiveness.” Clarifying the structure of data presented in written form or in a table also falls under this definition, but the concept refers above all to creating visual displays of information. Information design consists of selecting, organizing and presenting information, taking into account the needs and characteristics of the selected target audience, and the context of use. (p. 23)
+  - Graphic design vs information design
+    - survey by pharmacist trade magazine Kairenius (2012) showed that patient safety is compromised on a weekly basis in 30% of pharmacies, due to packaging too similar to each other. Branding > Clarity
+    - same with Google rebranding example!
+- Terminology on two axes
+  - (1) conceptual-measurable (2) explanatory-exploratory
+    - Rule of thumb: explanatory = infographics // measurable = visualization
+    - a measurable explanatory graphic can be both
+  - Data art vs Visualization
+    - > If then the presentation method is decided based on data, it is a visualization, but if data is picked to fit a chosen presentation method, it is data art. (p. 29)
+  - Symbols and glyphs
+    - > In his book The design of everyday things, Donald A. Norman, a pioneer of user-centered design, distinguishes between additive and substitutive dimensions in user interfaces Additive values such as length can be changed incrementally and are used to indicate varying amounts of something. Substitutive values such as color hue cannot be changed in size but only substituted for another value and are used to indicate categories. (p. 31)
+    - Symbols = substitutive (e.g. icons) // glyphs = additive (e.g. bar charts)
+    - Natural mapping = take advantage of this natural mapping, in other words visuals that fluctuate in size represent measurable things, whereas things that can only be substituted represent categories
+- Simplify
+  - a single number is not worth visualizing, smaller sets are understood better when in a table or in written form
+  - Want to visualize a single number? Compare it to a reference point to get a reference (e.g. how many X can you fit in a football field)
+- Compare
+  - > Edward Tufte writes that “At the heart of quantitative reasoning is a single question: Compared to what?” A visualization is at its heart, a tool for making comparisons. Thus the single most important question to answer when designing one is: what comparisons should be enabled? (p. 35)
+  - designer job = define which comparisons are the most important and use the most effective encoding methods for them first
+  - 6 types of relationships / comparisons
+    - Numbers: quantities, sizes
+    - Rank: same as numbers but divided by ranges (so not as precise)
+    - Location: geographic
+    - Time: timeline, positions in time
+    - Categories: qualitative
+    - Connections: types of links between data points

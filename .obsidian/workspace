@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "77506264edd537b6",
+        "id": "e1eb966d83933d71",
         "type": "leaf",
         "active": true,
         "state": {
+<<<<<<< HEAD
           "type": "graph",
+=======
+          "type": "empty",
+>>>>>>> f4fcec82e7ccfb166b3398f73e48ccce9bc3a9bc
           "state": {}
         }
       }
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "docs/2-fleeting/tk-notes.md",
+    "docs/2-fleeting/every-note-should-have-three-types-of-links.md",
+    "tk-notes.md",
+    "docs/1-reference/make-your-notes-work-for-you-2020.md",
+    "tk-how-to-connect-notes.md",
+    "docs/2-fleeting/the-denialist-playbook-2020.md",
     "docs/2-fleeting/can-polymaths-be-magicians.md",
-    "docs/4-permanent/i-have-an-early-adopter-personality.md",
-    "docs/6-people/robin.md",
-    "docs/6-people/niklas-luhmann.md",
-    "robin.md",
-    "docs/4-permanent/polymath-as-an-excuse.md",
-    "docs/4-permanent/my-note-taking-system.md",
-    "docs/4-permanent/foam-in-vs-code.md",
-    "docs/4-permanent/foam.md",
-    "docs/4-permanent/becoming-a-magician-incrementally.md"
+    "docs/1-reference/zettelkasten-method-2020.md",
+    "how-to-connect-permanent-notes.md",
+    "docs/2-fleeting/how-to-connect-permanent-notes.md"
   ]
 }
