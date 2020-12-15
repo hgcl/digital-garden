@@ -5,7 +5,7 @@
 > The purpose of visualization is insight, not pictures 
 > — Ben Shneiderman
 
-> The most important decision in making a map is not what to put in, but what to leave oShneiderman
+> The most important decision in making a map is not what to put in, but what to leave out
 
 - Definition of information design
   - > The selection of the presentation method and a layout for the information, taking into account the capabilities and limitations of the visual system, is called information design. (p. 20)
