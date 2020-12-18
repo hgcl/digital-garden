@@ -2,9 +2,9 @@
 tags: [permanent]
 ---
 
-# Becoming A Magician Incrementally
+# Becoming a Magician Incrementally
 
-## Two Approaches To Becoming Great
+## Two Approaches to Becoming Great
 
 [[ignoring-your-path-to-become-a-magician]] is Autotranslucence’s method to becoming great—a [[magician]] in other words. She argues that becoming a magician requires an impossible jump sideways and forward. Building strategies today would be pure speculation as you are restricted by your current mental models. Instead, she suggests letting your subconscious do the job—once you have found your magician role models.
 

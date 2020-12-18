@@ -11,7 +11,7 @@ dateretrieved: 2020-11-29
 ## Technology is Dynamic
 
 - Today, technology is synonym to digital / computing only 
-  - From [[how-technology-grows-2018]]
+  - From [[§how-technology-grows-2018]]
 - About the [[decaying-web]]
   - Today, we cannot really tell the age of websites anymore. We can sometimes say by its design only. What of you completely update it? We are losing context (vs. physical objects get old)
   - What about an auto-decaying web?
@@ -22,8 +22,8 @@ dateretrieved: 2020-11-29
 
  ## Protestant work ethic
 
-- [[the-protestant-ethic-and-the-spirit-of-capitalism-1905]] by Max Weber in 1905
-  - In short: [[protestant-work-ethic-lead-to-capitalism]] belief in hard work and frugality shaped the western world and might have lead to capitalism
+- [[§the-protestant-ethic-and-the-spirit-of-capitalism-1905]] by Max Weber in 1905
+  - In short: [[§protestant-work-ethic-lead-to-capitalism]] belief in hard work and frugality shaped the western world and might have lead to capitalism
   - Hard work + unwilling to spend => you do well financially
 - Today: you *need* to have a job = your value as a person
   - Value in working hard, indulgence = bad

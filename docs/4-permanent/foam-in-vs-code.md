@@ -2,7 +2,7 @@
 tags: [permanent]
 ---
 
-# Foam In VS Code
+# Foam in VS Code
 
 Here is the official [Foam documentation](https://foambubble.github.io/foam/#whats-in-a-foam).
 

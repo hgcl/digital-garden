@@ -1,6 +1,5 @@
 ---
 tags: [literature]
-reference: [[data-visualization-handbook-2020]]
 ---
 
 # Infographics vs Visualizations
@@ -14,7 +13,7 @@ In general, *visualizations* are used to represent data that is measurable (firs
 On the other hand, what we call *infographics* are usually explanatory (second axis) and will therefore use illustrations to explain the more conceptual messages. *Note: if a message is too conceptual, it will not be possible to represent it visually at all.*
 
 ---
-Reference: [[data-visualization-handbook-2020]]
+Reference: [[§data-visualization-handbook-2020]]
 
 
 

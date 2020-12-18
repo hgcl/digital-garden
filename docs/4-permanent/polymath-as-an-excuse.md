@@ -2,9 +2,9 @@
 tags: [permanent, openquestion]
 ---
 
-# Polymath As An Excuse
+# Polymath as an Excuse
 
-While reading [[how-to-be-great-just-be-good-repeatably-2020]], the following phrase resonated with me:
+While reading [[§how-to-be-great-just-be-good-repeatably-2020]], the following phrase resonated with me:
 > It’s easy to pivot from side project to side project, focusing on the new shiny object of the month.
 
 Is saying that I am a polymath and that I get bored easily of one single topic / project—therefore jumping from project to project—a simple excuse? 

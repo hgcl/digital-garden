@@ -17,7 +17,7 @@ dateretrieved: 2020-11-29
   - Process knowledge
     - Tacit knowledge, know-how, technical experience, built with time
     - > Process knowledge is the kind of knowledge that’s hard to write down as an instruction. You can give someone a well-equipped kitchen and an extraordinarily detailed recipe, but unless he already has some cooking experience, we shouldn’t expect him to prepare a great dish.
-    - In [[technology-as-process-2020.md]], Maggie Appleton describes it as “So tacit knowledge, you know, embodied knowledge, but sort of at a community scale, how do a whole group of people hold communal knowledge together.”
+    - In [[§technology-as-process-2020]], Maggie Appleton describes it as “So tacit knowledge, you know, embodied knowledge, but sort of at a community scale, how do a whole group of people hold communal knowledge together.”
 - Specialization caused many countries to lose process knowledge
   - Searching for comparative advantage
   - Many developed countries specialized in services > manufacturing / industrial

@@ -1,2 +1,5 @@
 # Ignore Obsidian files
 .obsidian
+
+# Ignore templates folder
+/templates

@@ -4,9 +4,9 @@ tags: [permanent]
 
 # TK Notes
 
-I first heard of TK—a.k.a. to come—from [[make-your-notes-work-for-you-2020]]. The article itself refers to the journalistic use of TK to signify that more material will come later&nbsp;<sup>1</sup>.
+I first heard of TK—a.k.a. to come—from [[§make-your-notes-work-for-you-2020]]. The article itself refers to the journalistic use of TK to signify that more material will come later&nbsp;<sup>1</sup>.
 
-In [[my-note-taking-system]], I add the `#tk` tag to notes I create on the fly and don't intend to deepen soon.
+In [[types-of-notes]], I add the `#tk` tag to notes I create on the fly and don't intend to deepen soon.
 
 What is the difference between [[fleeting-notes]] and TK notes? Fleeting notes are in my inbox and are active work-in-progress. TK notes are not active notes. They are just ideas that might never come to life, as they might never get written at all.
 

@@ -1,9 +1,8 @@
 ---
 tags: [literature]
-reference: [[how-to-be-great-just-be-good-repeatably-2020]]
 ---
 
-# Outputs Must Be Aligned with Your Goals
+# Outputs Must Be Aligned With Your Goals
 
 This is one of the three statements of the [[habit-of-progression]] concept.
 
@@ -15,9 +14,11 @@ Find the right habit by intentionally testing out more inputs / outputs dynamics
 
 > Ask yourself the question: “If I were to continue this every day for the next year, would I be in a better place?” 
 > 
-> — *Steph Smith, [[how-to-be-great-just-be-good-repeatably-2020]]*
+> — *Steph Smith, [[§how-to-be-great-just-be-good-repeatably-2020]]*
 
 ---
+Reference: [[§how-to-be-great-just-be-good-repeatably-2020]]
+
 See also: [[stop-speculating-about-what-is-best]]
 
 

@@ -2,7 +2,7 @@
 tags: [permanent]
 ---
 
-# I Have An Early Adopter Personality
+# I Have an Early Adopter Personality
 
 It is right after I adopted several alpha-grade softwares in 2020 that [[robin]] first called me an early adopter type of person.
 

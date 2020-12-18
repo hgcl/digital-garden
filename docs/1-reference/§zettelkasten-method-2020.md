@@ -11,7 +11,7 @@ dateretrieved: 2020-11-22
 ## Info
 
 - Topics: [[zettelkasten-method]]
-- References: [[how-to-take-smart-notes-2017]]
+- References: [[§how-to-take-smart-notes-2017]]
 
 ## Questions
 

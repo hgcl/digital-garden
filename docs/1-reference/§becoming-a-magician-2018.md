@@ -6,7 +6,7 @@ publishingdate: 2018
 dateretrieved: 2020-11-25
 ---
 
-# Becoming A Magician (2018)
+# Becoming a Magician (2018)
 
 ## Notes
 

@@ -6,7 +6,7 @@ publishingdate: 2019
 dateretrieved: 2020-11-22
 ---
 
-# Don’t quit your day job (2019)
+# Don’t Quit Your Day Job (2019)
 
 - [[bifurcation]], a definition: When having a “main career” in a full or part-time job, but also dedicating time on the side to your “true passion”. 
   - IMO: Of course, it doesn’t have to be a passion per se. It could also be something you would rather be doing as a main activity than your full-time job.

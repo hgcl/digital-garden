@@ -1,0 +1,12 @@
+---
+tags: [literature]
+---
+
+# Parkinson's Law
+
+Parkinson's Law states that the more time you have to do a task, the more time you will actually use to complete it.
+
+It was first articulated by Cyril Northcote Parkinson in an essay from 1955 in *The Economist* ([now available online](https://www.economist.com/news/1955/11/19/parkinsons-law)).
+
+---
+Reference: [[§your-lifestyle-has-already-been-designed-2010]]

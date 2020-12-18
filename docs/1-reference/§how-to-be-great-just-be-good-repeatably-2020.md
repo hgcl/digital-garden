@@ -25,7 +25,7 @@ dateretrieved: 2020-11-23
     - Example: Getting a degree you don’t really want…
   - Find the right habit by intentionally testing out more inputs => outputs, iterate monthly / weekly.
   - Ask yourself the question: “If I were to continue this every day for the next year, would I be in a better place?”
-- [[becoming-a-magician-2018]]
+- [[§becoming-a-magician-2018]]
   - You cannot imagine how to become a magician.
 - [[stop-speculating-about-what-is-best]], don’t try to be perfect
   - Do not try to be perfect at your first shot.

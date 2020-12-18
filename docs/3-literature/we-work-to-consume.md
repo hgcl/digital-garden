@@ -1,0 +1,16 @@
+---
+tags: [literature]
+---
+
+# We Work to Consume
+
+You don't need as much money as you think to live content. 
+
+A 9–5 job takes most of your time and mental space. Drained at the end of a work day, you are happy to buy your way out of this lack of time and energy. You buy convenience, rewards, a bit of excitement, an escape.
+
+In other words: the more we work, the more it pushes us to consume. The more we consume, the more we have to work to afford it.
+
+Following [[parkinson-s-law]], our consumption level expands to fit our new income.
+
+---
+Reference: [[§your-lifestyle-has-already-been-designed-2010]]

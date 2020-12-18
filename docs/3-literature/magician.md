@@ -1,11 +1,10 @@
 ---
 tags: [literature]
-reference: [[becoming-a-magician-2018]]
 ---
 
 # Magician
 
-In the context of growth, the *magician* is a term coined by Autotranslucence in [[becoming-a-magician-2018]]. 
+In the context of growth, the *magician* is a term coined by Autotranslucence. 
 
 A magician is someone with skills and competences that are so much above yours, that you cannot imagine how they do what they do—in other words, it is *magic* to your eyes.
 
@@ -14,6 +13,8 @@ Magicians wear a lens that is completely different from yours. To become that ma
 Chances are that you are also the magician of someone else. Would younger you be able to imagine where you are in life currently?
 
 ---
+Reference: [[§becoming-a-magician-2018]]
+
 See also: [[becoming-a-magician-incrementally]]
 
 
