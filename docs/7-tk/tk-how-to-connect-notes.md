@@ -2,4 +2,4 @@
 tags: [tk]
 ---
 
-# TK How to Connect Notes
+# How to Connect Notes
