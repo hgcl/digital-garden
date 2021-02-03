@@ -1,6 +1,6 @@
-> ---
+---
 tags: [fleeting, reference, book]
-author: 
+author:
 publishingdate: 2020
 pagenumber: 122
 ---
