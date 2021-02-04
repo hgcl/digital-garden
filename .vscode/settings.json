@@ -20,5 +20,8 @@
     "publishingdate",
     "steph",
     "tiago"
+  ],
+  "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+    "autotranslucence"
   ]
 }
