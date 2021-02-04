@@ -1,5 +1,5 @@
 ---
-tags: [fleeting, reference, article]
+tags: [reference, article]
 source: https://twitter.com/DRMacIver/status/1341882724974534657
 author: David R. MacIver
 publishingdate: 2020-12-24
