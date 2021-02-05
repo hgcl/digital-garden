@@ -9,7 +9,7 @@ Just like with a lot of other projects, I tend to do a lot of [[tk-procrastilear
 My challenge is to let in a bit of chaos and allow myself to experiment. I need to write down my original thoughts and ideas more. My digital garden should be messy, an experimentation playground where serendipity can occur. If things are too tidy, nothing unexpected and organic will ever happen.
 
 ---
-See also: 
+Relevant notes: 
 - [[about-this-digital-garden]]
 - [[tk-seeing-failure-as-an-experiment]]
 

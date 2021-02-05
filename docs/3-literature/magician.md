@@ -15,7 +15,7 @@ Chances are that you are also the magician of someone else. Would younger you be
 ---
 Reference: [[§becoming-a-magician-2018]]
 
-See also: 
+Relevant notes: 
 - [[becoming-a-magician-incrementally]]
 - [[talent-is-mostly-about-not-having-mental-blocks]]
 
